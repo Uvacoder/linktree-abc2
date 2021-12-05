@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <p>
-        LinkTree by: <FooterAuthorName>Vladimir</FooterAuthorName>
+        LinkTree by: <FooterAuthorName>uvacoder</FooterAuthorName>
       </p>
     </FooterContainer>
   );
