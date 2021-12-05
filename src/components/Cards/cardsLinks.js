@@ -12,7 +12,7 @@ const textColors = {
 export const cardsLinks = [
   {
     txt: "Github",
-    url: "https://github.com/Vdymir",
+    url: "https://github.com/uvacoder",
     textColor: textColors.white,
     bgColor: "#000",
     IconComponent: <GitHubIcon />,
@@ -26,7 +26,7 @@ export const cardsLinks = [
   },
   {
     txt: "LinkedIn",
-    url: "https://www.linkedin.com/in/eduardo-casta%C3%B1ed4/",
+    url: "https://www.linkedin.com/in/alecbcampbell/",
     textColor: textColors.white,
     bgColor: "#0A66C2",
     IconComponent: <LinkedInIcon />,
