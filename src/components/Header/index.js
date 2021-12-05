@@ -1,16 +1,16 @@
 import { HeaderStyled, HeaderImg, HeaderTitle } from "./header-styled";
-import vladimirImg from "../../img/img-vladimir.jpeg";
+import lumbergImg from "../../img/rob-owen.png";
 
 export default function Header() {
   return (
     <HeaderStyled>
       <HeaderImg
-        src={vladimirImg}
-        alt="Vladimir Castañeda"
+        src={lumbergImg}
+        alt="Bill Lumberg"
         loading="lazy"
         draggable="false"
       />
-      <HeaderTitle>Vladimir Castañeda</HeaderTitle>
+      <HeaderTitle>Bill Lumberg</HeaderTitle>
       <p>Frontend Developer</p>
     </HeaderStyled>
   );
